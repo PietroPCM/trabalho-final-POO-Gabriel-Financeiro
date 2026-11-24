@@ -1,0 +1,61 @@
+24/11/2026 10:10:00 [DEBUG] POST /transacoes
+24/11/2026 10:10:00 [INFO] Transacao criada com sucesso. ID: 1
+24/11/2026 10:12:00 [INFO] CEP 85816350 consultado no provedor
+24/11/2026 10:12:00 [DEBUG] ViaCepAdapter traduzindo resposta do provedor
+24/11/2026 10:12:00 [INFO] ViaCepAdapter concluiu a conversao para Endereco
+24/11/2026 10:12:15 [INFO] CEP 85816350 retornado do cache
+24/11/2026 10:13:00 [ERRO] CEP invalido bloqueado pelo Proxy: 123
+24/11/2026 10:15:00 [DEBUG] Iniciando analise de orcamento com estrategia: padrao
+24/11/2026 10:15:00 [INFO] Orcamento entrou em estado de alerta
+24/11/2026 10:15:00 [INFO] Observer recebeu alerta de orcamento: Atencao: voce ja utilizou 80% ou mais do seu orcamento.
+24/11/2026 14:40:42 [DEBUG] Criando uma nova transacao
+24/11/2026 14:40:42 [INFO] Transacao criada com sucesso. ID: 1
+24/11/2026 14:40:50 [DEBUG] Iniciando analise de orcamento com estrategia: padrao
+24/11/2026 14:40:50 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 14:40:50 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 14:40:50 [INFO] Orcamento analisado sem alerta
+24/11/2026 14:41:35 [DEBUG] Criando uma nova transacao
+24/11/2026 14:41:35 [INFO] Transacao criada com sucesso. ID: 2
+24/11/2026 14:41:43 [DEBUG] Iniciando analise de orcamento com estrategia: padrao
+24/11/2026 14:41:43 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 14:41:43 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 14:41:43 [INFO] Orcamento entrou em estado de alerta
+24/11/2026 14:41:43 [INFO] Observer recebeu alerta de orcamento: Atencao: voce ja utilizou 80% ou mais do seu orcamento.
+24/11/2026 14:45:16 [INFO] CEP 85816350 consultado no provedor
+24/11/2026 14:45:16 [DEBUG] ViaCepAdapter traduzindo resposta do provedor
+24/11/2026 14:45:16 [INFO] ViaCepAdapter concluiu a conversao para Endereco
+24/11/2026 16:05:56 [DEBUG] Criando uma nova transacao
+24/11/2026 16:05:56 [INFO] Transacao criada com sucesso. ID: 1
+24/11/2026 16:06:03 [DEBUG] Iniciando analise de orcamento com estrategia: padrao
+24/11/2026 16:06:03 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 16:06:03 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 16:06:03 [INFO] Orcamento analisado sem alerta
+24/11/2026 16:06:14 [DEBUG] Iniciando analise de orcamento com estrategia: conservadora
+24/11/2026 16:06:14 [DEBUG] Strategy conservadora avaliando o orcamento
+24/11/2026 16:06:14 [DEBUG] Strategy conservadora avaliando o orcamento
+24/11/2026 16:06:14 [INFO] Orcamento entrou em estado de alerta
+24/11/2026 16:06:14 [INFO] Observer recebeu alerta de orcamento: Atencao: pela estrategia conservadora, 60% do orcamento ja exige cuidado.
+24/11/2026 16:06:29 [DEBUG] Listando todas as transacoes
+24/11/2026 16:06:29 [INFO] Transacoes listadas com sucesso
+24/11/2026 16:06:49 [DEBUG] Listando todas as transacoes
+24/11/2026 16:06:49 [INFO] Transacoes listadas com sucesso
+24/11/2026 16:06:55 [DEBUG] Iniciando analise de orcamento com estrategia: padrao
+24/11/2026 16:06:55 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 16:06:55 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 16:06:55 [INFO] Orcamento analisado sem alerta
+24/11/2026 16:53:40 [INFO] CEP 85815420 consultado no provedor
+24/11/2026 16:53:40 [DEBUG] ViaCepAdapter traduzindo resposta do provedor
+24/11/2026 16:53:40 [INFO] ViaCepAdapter concluiu a conversao para Endereco
+24/11/2026 18:30:19 [DEBUG] Criando uma nova transacao
+24/11/2026 18:30:20 [INFO] Transacao criada com sucesso. ID: 1
+24/11/2026 18:30:33 [DEBUG] Listando todas as transacoes
+24/11/2026 18:30:33 [INFO] Transacoes listadas com sucesso
+24/11/2026 18:30:58 [DEBUG] Iniciando analise de orcamento com estrategia: padrao
+24/11/2026 18:30:58 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 18:30:58 [DEBUG] Strategy padrao avaliando o orcamento
+24/11/2026 18:30:58 [INFO] Orcamento analisado sem alerta
+24/11/2026 18:31:16 [DEBUG] Iniciando analise de orcamento com estrategia: conservadora
+24/11/2026 18:31:16 [DEBUG] Strategy conservadora avaliando o orcamento
+24/11/2026 18:31:16 [DEBUG] Strategy conservadora avaliando o orcamento
+24/11/2026 18:31:16 [INFO] Orcamento entrou em estado de alerta
+24/11/2026 18:31:16 [INFO] Observer recebeu alerta de orcamento: Atencao: pela estrategia conservadora, 60% do orcamento ja exige cuidado.
